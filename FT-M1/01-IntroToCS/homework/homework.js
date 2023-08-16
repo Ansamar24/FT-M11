@@ -2,6 +2,7 @@
 
 function BinarioADecimal(num) {
    var resultado = 0 
+   hhsaaahaaj
 }
 
 function DecimalABinario(num) {}
